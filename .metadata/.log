@@ -6469,3 +6469,6 @@ java.lang.Error: SWT Resource was not properly disposed
 
 !ENTRY org.eclipse.cdt.core 1 0 2025-02-25 01:06:29.565
 !MESSAGE Indexed 'HelloWorld' (1 sources, 0 headers) in 0.057 sec: 2 declarations; 1 references; 2 unresolved inclusions; 0 syntax errors; 1 unresolved names (25%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-02-25 02:02:09.542
+!MESSAGE Indexed 'SumofTwoNumbers' (1 sources, 0 headers) in 0.034 sec: 2 declarations; 1 references; 2 unresolved inclusions; 0 syntax errors; 1 unresolved names (25%)

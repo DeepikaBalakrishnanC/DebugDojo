@@ -1,8 +1,5 @@
-01:10:22 **** Rebuild of configuration Debug for project HelloWorld ****
+Info: Nothing to build for SumofTwoNumbers
+02:05:39 **** Incremental Build of configuration Debug for project SumofTwoNumbers ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HelloWorld.o" "..\\src\\HelloWorld.c" 
-gcc -o HelloWorld.exe "src\\HelloWorld.o" 
-01:10:45 **** Incremental Build of configuration Debug for project HelloWorld ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HelloWorld.o" "..\\src\\HelloWorld.c" 
-gcc -o HelloWorld.exe "src\\HelloWorld.o" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SumofTwoNumbers.o" "..\\src\\SumofTwoNumbers.c" 
+gcc -o SumofTwoNumbers.exe "src\\SumofTwoNumbers.o" 
